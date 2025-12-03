@@ -1,0 +1,237 @@
+[
+  {
+    "id": "MLU123456789",
+    "title": "Laptop Dell XPS 15 - Intel Core i7 - 16GB RAM - 512GB SSD",
+    "price": 1299.99,
+    "description": "High-end laptop with latest generation Intel Core i7 processor, 16GB DDR4 RAM, 512GB SSD. 15.6-inch FHD display. Ideal for professional work and moderate gaming.",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_laptop-dell-xps-15.jpg",
+    "stock": 15,
+    "condition": "NEW",
+    "category": {
+      "id": "MLA1648",
+      "name": "Computers"
+    },
+    "seller": {
+      "id": "SELLER001",
+      "name": "TechStore Premium",
+      "reputation": 4.8
+    }
+  },
+  {
+    "id": "MLU234567890",
+    "title": "iPhone 15 Pro Max 256GB - Natural Titanium",
+    "price": 1199.99,
+    "description": "Latest iPhone model with A17 Pro chip, 48MP professional camera, 6.7-inch Super Retina XDR display. Includes USB-C charger.",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_iphone-15-pro-max.jpg",
+    "stock": 8,
+    "condition": "NEW",
+    "category": {
+      "id": "MLA1055",
+      "name": "Cell Phones & Smartphones"
+    },
+    "seller": {
+      "id": "SELLER002",
+      "name": "Apple Store Official",
+      "reputation": 5.0
+    }
+  },
+  {
+    "id": "MLU345678901",
+    "title": "Smart TV Samsung 55\" 4K UHD QLED",
+    "price": 799.99,
+    "description": "55-inch Samsung Smart TV with QLED technology, 4K UHD resolution, HDR10+, Tizen operating system. Includes smart remote control and wall mount.",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_samsung-tv-55-qled.jpg",
+    "stock": 22,
+    "condition": "NEW",
+    "category": {
+      "id": "MLA1002",
+      "name": "Electronics, Audio & Video"
+    },
+    "seller": {
+      "id": "SELLER003",
+      "name": "Samsung Official",
+      "reputation": 4.9
+    }
+  },
+  {
+    "id": "MLU456789012",
+    "title": "PlayStation 5 Digital Edition + 2 Controllers",
+    "price": 499.99,
+    "description": "PlayStation 5 digital version console with disc drive, includes 2 DualSense controllers. Next-generation power for immersive gaming.",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_playstation-5.jpg",
+    "stock": 5,
+    "condition": "NEW",
+    "category": {
+      "id": "MLA1144",
+      "name": "Gaming Consoles & Video Games"
+    },
+    "seller": {
+      "id": "SELLER004",
+      "name": "GameZone",
+      "reputation": 4.7
+    }
+  },
+  {
+    "id": "MLU567890123",
+    "title": "Sony WH-1000XM5 Noise Cancelling Headphones",
+    "price": 349.99,
+    "description": "Premium headphones with industry-leading noise cancellation, high-resolution sound, up to 30 hours battery life. Bluetooth 5.2 and fast charging.",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_sony-wh1000xm5.jpg",
+    "stock": 30,
+    "condition": "NEW",
+    "category": {
+      "id": "MLA1002",
+      "name": "Electronics, Audio & Video"
+    },
+    "seller": {
+      "id": "SELLER005",
+      "name": "Sony Store",
+      "reputation": 4.8
+    }
+  },
+  {
+    "id": "MLU678901234",
+    "title": "MacBook Air M2 13\" - 8GB RAM - 256GB SSD",
+    "price": 1099.99,
+    "description": "MacBook Air with Apple M2 chip, 13.6-inch Retina display, 8GB unified memory, 256GB SSD storage. Ultra-thin and lightweight design.",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_macbook-air-m2.jpg",
+    "stock": 12,
+    "condition": "NEW",
+    "category": {
+      "id": "MLA1648",
+      "name": "Computers"
+    },
+    "seller": {
+      "id": "SELLER002",
+      "name": "Apple Store Official",
+      "reputation": 5.0
+    }
+  },
+  {
+    "id": "MLU789012345",
+    "title": "Logitech G Pro X RGB Mechanical Keyboard",
+    "price": 129.99,
+    "description": "Professional gaming mechanical keyboard, hot-swappable GX Blue switches, customizable RGB lighting, compact TKL design.",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_logitech-gpro-x.jpg",
+    "stock": 45,
+    "condition": "NEW",
+    "category": {
+      "id": "MLA1648",
+      "name": "Computers"
+    },
+    "seller": {
+      "id": "SELLER006",
+      "name": "Logitech Official",
+      "reputation": 4.6
+    }
+  },
+  {
+    "id": "MLU890123456",
+    "title": "Samsung Galaxy Tab S9 11\" 128GB Tablet",
+    "price": 649.99,
+    "description": "Premium tablet with 11-inch Dynamic AMOLED 2X display, Snapdragon 8 Gen 2 processor, includes S Pen. Perfect for productivity and entertainment.",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_galaxy-tab-s9.jpg",
+    "stock": 18,
+    "condition": "NEW",
+    "category": {
+      "id": "MLA1055",
+      "name": "Cell Phones & Smartphones"
+    },
+    "seller": {
+      "id": "SELLER003",
+      "name": "Samsung Official",
+      "reputation": 4.9
+    }
+  },
+  {
+    "id": "MLU901234567",
+    "title": "Canon EOS R6 Mark II Camera (Body Only)",
+    "price": 2499.99,
+    "description": "Professional full-frame mirrorless camera, 24.2MP CMOS sensor, 4K 60fps video recording, 5-axis image stabilization. Ideal for professional photography.",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_canon-eos-r6-mark-ii.jpg",
+    "stock": 7,
+    "condition": "NEW",
+    "category": {
+      "id": "MLA1039",
+      "name": "Cameras & Accessories"
+    },
+    "seller": {
+      "id": "SELLER007",
+      "name": "Canon Store",
+      "reputation": 4.9
+    }
+  },
+  {
+    "id": "MLU012345678",
+    "title": "LG UltraGear 27\" 4K 144Hz Gaming Monitor",
+    "price": 549.99,
+    "description": "27-inch gaming monitor with 4K UHD resolution, 144Hz refresh rate, 1ms response time, compatible with NVIDIA G-Sync and AMD FreeSync.",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_lg-ultragear-27.jpg",
+    "stock": 20,
+    "condition": "NEW",
+    "category": {
+      "id": "MLA1648",
+      "name": "Computers"
+    },
+    "seller": {
+      "id": "SELLER008",
+      "name": "LG Electronics",
+      "reputation": 4.7
+    }
+  },
+  {
+    "id": "MLU112233445",
+    "title": "Nintendo Switch OLED - Neon Edition",
+    "price": 349.99,
+    "description": "Hybrid console with 7-inch OLED screen, 64GB internal storage, neon Joy-Con. Play at home or on the go.",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_nintendo-switch-oled.jpg",
+    "stock": 25,
+    "condition": "NEW",
+    "category": {
+      "id": "MLA1144",
+      "name": "Gaming Consoles & Video Games"
+    },
+    "seller": {
+      "id": "SELLER009",
+      "name": "Nintendo Store",
+      "reputation": 4.8
+    }
+  },
+  {
+    "id": "MLU223344556",
+    "title": "Logitech MX Master 3S Wireless Mouse",
+    "price": 99.99,
+    "description": "Premium ergonomic mouse for productivity, 8000 DPI sensor, Bluetooth and USB-C connectivity, up to 70 days battery life, electromagnetic scroll wheel.",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_logitech-mx-master-3s.jpg",
+    "stock": 60,
+    "condition": "NEW",
+    "category": {
+      "id": "MLA1648",
+      "name": "Computers"
+    },
+    "seller": {
+      "id": "SELLER006",
+      "name": "Logitech Official",
+      "reputation": 4.6
+    }
+  },
+  {
+    "id": "MLU334455667",
+    "title": "Lenovo ThinkPad X1 Carbon Gen 11 Laptop - Refurbished",
+    "price": 899.99,
+    "description": "Refurbished business laptop, Intel Core i5, 16GB RAM, 256GB SSD, 14\" FHD display. Certified with 6-month warranty. Excellent condition.",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_lenovo-thinkpad-x1.jpg",
+    "stock": 5,
+    "condition": "USED",
+    "category": {
+      "id": "MLA1648",
+      "name": "Computers"
+    },
+    "seller": {
+      "id": "SELLER010",
+      "name": "RefurbTech",
+      "reputation": 4.3
+    }
+  }
+]
+

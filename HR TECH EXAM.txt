@@ -1,0 +1,24 @@
+Backend API – HR Tech Exam
+
+Objective
+Build a backend API that provides all necessary data to support an item detail page, inspired by MercadoLibre. Your API should efficiently deliver the required product details and related information in line with best backend development practices.
+
+This exercise focuses exclusively on backend design and implementation.
+
+Requirements
+Backend: API Development
+
+Implement an API that supports the frontend by providing the necessary product details.
+The primary endpoint should fetch product details.
+Stack:
+
+You can use any backend technology or framework of your choice.
+Simulate data persistence using local JSON/CSV files or an in‑memory database (e.g., SQLite, H2 Database) to represent the inventory. A real database is not required.
+Non-functional requirements
+Special consideration will be given to good practices in error handling, documentation, testing, and any other relevant non-functional aspects you choose to demonstrate.
+
+Tool Usage
+Allowed Tools: You may use and are encouraged to use GenAI tools, agentic IDEs, and other code assistance tools to help generate ideas or code. (included in the HR Challenge)
+
+Documentation & strategic overview
+Please include a brief README or Diagram (optional) that explains your API design, main endpoints, setup instructions, and any key architectural decisions you made during development.
